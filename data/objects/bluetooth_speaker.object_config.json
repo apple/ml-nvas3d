@@ -1,0 +1,8 @@
+{
+    "render_asset": "bluetooth_speaker.glb",
+    "mass": 0.41,
+    "friction_coefficient": 0.5,
+    "restitution_coefficient": 0.4,
+    "use_bounding_box_for_collision": true,
+    "margin": 0.01
+}

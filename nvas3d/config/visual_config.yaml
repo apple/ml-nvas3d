@@ -1,0 +1,31 @@
+save_dir: './nvas3d/saved_models'
+use_norm: True
+
+use_visual: True
+use_deconv: True
+use_real_imag: True
+use_mask: False
+use_visual_bg: False
+use_beamforming: False
+use_legacy: True
+
+data_loader:  
+  batch_size: 96
+  num_workers: 8
+  num_receivers: 4
+  hop_length: 480
+  win_length: 1200
+  n_fft: 2048
+  nvas3d_dataset: 'nvas3d_square_all_all'
+  audio_format: 'flac'
+
+training:
+  epochs: 200
+  lr: 0.001
+  weight_decay: 0.0
+  detect_loss_weight: 0.1
+  save_checkpoint_interval: 10
+  resume: False
+  checkpoint_dir: None
+
+  

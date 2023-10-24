@@ -1,7 +1,7 @@
 # Novel-View Acoustic Synthesis from 3D Reconstructed Rooms
 
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://nvas3d.github.io)
-[![Paper](https://img.shields.io/badge/Paper-arXiv-blueviolet)](https://arxiv.org)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-blueviolet)](http://arxiv.org/abs/2310.15130)
 
 
 > [Click on the thumbnail image](https://docs-assets.developer.apple.com/ml-research/models/nvas/teaser.mp4) below to watch a video showcasing our Novel-View Acoustic Synthesis.
@@ -18,7 +18,7 @@ Welcome to the official code repository for "Novel-View Acoustic Synthesis from 
 This project estimates the sound anywhere in a scene containing multiple unknown sound sources, hence resulting in novel-view acoustic synthesis, given audio recordings from multiple microphones and the 3D geometry and material of a scene.
 
 
-["Novel-View Acoustic Synthesis from 3D Reconstructed Rooms"](https://arxiv.org)\
+["Novel-View Acoustic Synthesis from 3D Reconstructed Rooms"](http://arxiv.org/abs/2310.15130)\
 [Byeongjoo Ahn](https://byeongjooahn.github.io), 
 [Karren Yang](https://karreny.github.io), 
 [Brian Hamilton](https://www.brianhamilton.co), 
